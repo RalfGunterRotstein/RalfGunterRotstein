@@ -11,11 +11,6 @@ and I’ve also used other resources in the past, such as C, C++, C# and Python.
 
 - I speak **Portuguese, English, Spanish and French**.
 
-- You can see my portfolio at [Ralf’s Portfolio](http://ralf.infinityfreeapp.com/).
+- You can see my portfolio at **[Ralf’s Portfolio](http://ralf.infinityfreeapp.com/)**.
 
 - If you’re interested in hiring me, you can e-mail me at **ralf.rotstein@gmail.com**.
-
-<!---
-RalfGunterRotstein/RalfGunterRotstein is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
