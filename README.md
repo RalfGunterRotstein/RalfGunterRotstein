@@ -1,6 +1,6 @@
 Hello! I’m @RalfGunterRotstein.
 
-- I’m interested in getting a full time job as a **front-end developer**, either by remote working, or somewhere near Brazil.
+- I’m interested in getting a full time job as a **front-end developer**, either by remote working or somewhere near Brazil.
 
 - I have a degree in **Computer Science** and in Digital Games.
 
