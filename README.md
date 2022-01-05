@@ -2,9 +2,9 @@ Hello! I’m @RalfGunterRotstein.
 
 - I’m interested in getting a full time job as a **front-end developer**, either by remote working or somewhere near Brazil.
 
-- I have a degree in **Computer Science** and in Digital Games.
+- I have a degree in **Computer Science** and in **Digital Games**.
 
-- I’m currently confident using **PHP, jQuery, JavaScript, React, CSS, SASS and HTML**,
+- I’m currently confident using **HTML, CSS, SASS, JavaScript, jQuery, React, PHP and MySQL**,
 and I’ve also used other resources in the past, such as C, C++, C# and Python.
 
 - I’m currently learning **Vue.js**.
