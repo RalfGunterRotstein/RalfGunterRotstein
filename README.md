@@ -1,16 +1,15 @@
 Hello! I’m @RalfGunterRotstein.
 
-- I’m interested in getting a full time job as a **front-end developer**, either by remote working or somewhere near Brazil.
+- I’m interested in getting a full time job as a **front-end developer**.
 
 - I have a degree in **Computer Science** and in **Digital Games**.
 
-- I’m currently confident using **HTML, CSS, SASS, JavaScript, jQuery, React, PHP and MySQL**,
-and I’ve also used other resources in the past, such as C, C++, C# and Python.
+- In my recent projects I’ve used **HTML, CSS, SASS, JavaScript, jQuery, React, Vue, PHP and MySQL**.
 
-- I’m currently learning **Vue.js**.
+- I’ve also used other resources in the past, such as **C, C++, C# and Python**.
 
 - I speak **Portuguese, English, Spanish and French**.
 
 - You can see my portfolio at **[Ralf’s Portfolio](http://ralf.infinityfreeapp.com/)**.
 
-- If you’re interested in hiring me, you can e-mail me at **ralf.rotstein@gmail.com**.
+If you’re interested in hiring me, you can e-mail me at **ralf.rotstein@gmail.com**.
