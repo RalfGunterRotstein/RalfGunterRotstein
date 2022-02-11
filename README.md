@@ -4,7 +4,7 @@ Hello! I’m @RalfGunterRotstein.
 
 - I have degrees in **Computer Science** and **Digital Games**.
 
-- In my recent projects I’ve used **HTML, CSS, SASS, JavaScript, jQuery, React, Vue, PHP and MySQL**.
+- In my recent projects I’ve used **React, Vue, jQuery, JS, PHP, MySQL, SASS, CSS and HTML**.
 
 - I’ve also used other tools in the past, such as **C, C++, C# and Python**.
 
