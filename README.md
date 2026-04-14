@@ -8,7 +8,7 @@ Hello! I’m @RalfGunterRotstein.
 
 - I’ve also used other tools in the past, such as **C, C++, C# and Python**.
 
-- Recently, I've been working with automation using **VBA, Selenium and JavaScript**, and focusing my studies on front-end development with TS/Angular.
+- Recently, I've been working with automation using **VBA, JavaScript, Selenium and CDP**, and focusing my studies on front-end development with TS/Angular.
 
 - I speak **Portuguese, English, Spanish**.
 
