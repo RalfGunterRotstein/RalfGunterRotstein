@@ -13,5 +13,3 @@ Hello! I’m @RalfGunterRotstein.
 - I speak **Portuguese, English, Spanish**.
 
 - You can see my portfolio at **[Ralf’s Portfolio](http://ralf.infinityfreeapp.com/)**.
-
-If you’re interested in hiring me, you can e-mail me at **ralf.rotstein@gmail.com**.
